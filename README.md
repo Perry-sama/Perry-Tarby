@@ -4,35 +4,37 @@ My personal repository
 
 ### 🇫🇷 Présentation
 
-Ancien urbaniste et analyste en données géographiques, je me reconvertis aujourd’hui avec passion dans le développement web et l’intelligence artificielle.
+Professionnel polyvalent en reconversion, je me forme actuellement au métier de **Développeur Web et Web Mobile full-stack** (titre RNCP37674) chez **Studi**. Mon objectif : allier mes compétences en urbanisme, cartographie et systèmes d'information géographique à ma passion pour les technologies numériques et l'innovation.
 
-🔁 **Reconversion professionnelle** motivée par ma passion pour le numérique, les nouvelles technologies, les projets tech innovants et l’évolution constante du monde informatique (Web3, IA, crypto, etc.).
+🔁 **Reconversion motivée** par un intérêt profond pour le numérique, les nouvelles technologies, l’IA, la blockchain et les projets tech à impact.  
 
-💡 **Formation actuelle** : je suis une formation de Développeur Web et Web Mobile full-stack chez **Studi**, avec un accent sur les langages front-end et back-end, les frameworks modernes et les bonnes pratiques de développement.
+💼 **Immersion récente** : LINYA SERVICES (Montry) – première expérience concrète en développement web au sein d’une entreprise.  
+🎓 **Formation en cours** : développement front-end et back-end, bases de données, sécurité, accessibilité, RGPD, responsive design.  
 
-🔧 **Compétences** : HTML, CSS, JavaScript, Python, Git, QGIS, ArcGIS, Figma  
-🌍 **Parcours** : IGN (RPG), collectivités locales, projets d’aménagement et SIG  
-🎯 **Objectifs** : intégrer une équipe tech (CDD/CDI ou mission), contribuer à des projets utiles et intelligents, concevoir des outils numériques qui ont un impact réel.
+🔧 **Compétences** : HTML, CSS, JavaScript, Git, SQL, QGIS, ArcGIS, Python (débutant), Figma  
+🌍 **Parcours** : IGN (chargé de production RPG), collectivités locales, projets d’aménagement & SIG  
+🎯 **Objectifs** : intégrer une équipe tech, contribuer à des projets utiles, accessibles et durables, et évoluer vers des rôles techniques ou hybrides.
 
-📍 **Mobilité** : disponible en Île-de-France, à La Réunion, en télétravail, en présentiel ou en mode hybride.
+📍 **Mobilité** : disponible en Île-de-France, à La Réunion, en télétravail, présentiel ou hybride.
 
-Rigoureux, curieux et autonome, j’aime apprendre, m’adapter et créer. N’hésitez pas à consulter mes projets ou à me contacter pour échanger !
+Curieux, rigoureux et autonome, j’aime apprendre, créer et m’adapter à des contextes variés. N'hésitez pas à consulter mes projets ou à me contacter !
 
 ---
 
 ### 🇬🇧 About me
 
-Former urban planner and GIS analyst, I'm currently making a passionate career shift into web development and artificial intelligence.
+Versatile professional currently retraining as a **Full-stack Web & Mobile Developer** (RNCP37674) with **Studi**. I’m combining a solid background in urban planning, GIS and project coordination with my strong interest in tech, innovation and AI.
 
-🔁 **Professional transition** driven by a deep interest in technology, innovation, and the fast-moving world of digital tools (Web3, AI, crypto, etc.).
+🔁 **Career shift** driven by a deep passion for digital tools, new tech, artificial intelligence, blockchain and impactful innovation.  
 
-💡 **Current training**: I'm enrolled in a full-stack Web and Mobile Developer program at **Studi**, focusing on front-end and back-end technologies, modern frameworks, and clean coding practices.
+💼 **Recent immersion**: First professional experience as a web developer at **LINYA SERVICES** (Montry, 2024).  
+🎓 **Ongoing training**: full-stack development, database design, security, accessibility, GDPR compliance, and responsive UI.  
 
-🔧 **Tech stack**: HTML, CSS, JavaScript, Python, Git, QGIS, ArcGIS, Figma  
-🌍 **Background**: IGN (RPG), local governments, urban planning & GIS projects  
-🎯 **Goals**: Join a tech team (full-time or freelance), contribute to meaningful and smart digital projects, and help build tools that make a difference.
+🔧 **Skills**: HTML, CSS, JavaScript, Git, SQL, QGIS, ArcGIS, basic Python, Figma  
+🌍 **Background**: IGN (geodata production), local governments, urban planning & GIS projects  
+🎯 **Goals**: Join a tech team, contribute to meaningful digital solutions, grow into technical or hybrid roles.
 
-📍 **Availability**: Open to opportunities in Île-de-France, La Réunion, remote work, on-site or hybrid formats.
+📍 **Available**: Île-de-France, La Réunion, remote work, on-site or hybrid.
 
-I’m curious, autonomous and eager to learn and create. Feel free to browse my repositories or get in touch!
+I'm curious, autonomous, and eager to learn and build. Feel free to check out my repositories or reach out!
 
