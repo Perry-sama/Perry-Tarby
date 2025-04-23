@@ -2,6 +2,8 @@
 My personal repository
 ## 👋 Bonjour, je suis Perry TARBY / Hi there, I'm Perry TARBY
 
+[![Formation en cours - Studi](https://img.shields.io/badge/Formation%20en%20cours-Studi-blue)](https://studi.fr)
+
 ### 🇫🇷 Présentation
 
 Professionnel polyvalent en reconversion, je me forme actuellement au métier de **Développeur Web et Web Mobile full-stack** (titre RNCP37674) chez **Studi**. Mon objectif : allier mes compétences en urbanisme, cartographie et systèmes d'information géographique à ma passion pour les technologies numériques et l'innovation.
